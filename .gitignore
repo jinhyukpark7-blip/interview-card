@@ -1,0 +1,14 @@
+# GitHub에 올리지 않을 파일 목록이에요
+
+# 앱을 켤 때마다 생기는 백업 폴더예요. 내 기록 복사본이라 올리지 않아요
+data/backup/
+
+# 내 답 · 자신감 기록이에요. 진짜 면접 답이 인터넷에 올라가지 않게 빼요
+data/answers.csv
+data/confidence.csv
+
+# 파이썬이 저절로 만드는 임시 파일이에요
+__pycache__/
+*.pyc
+
+# data/questions.csv 는 F1 카드라서 올려요 (여기 적지 않았어요)
